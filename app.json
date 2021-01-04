@@ -1,6 +1,6 @@
 {
-  "id": "2b8588cf-4776-4f70-9588-126cd0c124a4",
-  "name": "ALProject4(week15)",
+  "id": "6464986c-6101-40bd-93d0-88150b6d5ab6",
+  "name": "ALProject4",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -28,11 +28,11 @@
   "platform": "16.0.0.0",
   "idRanges": [
     {
-      "from": 50000,
-      "to": 99999
+      "from": 50100,
+      "to": 50149
     }
   ],
-  "contextSensitiveHelpUrl": "https://ALProject4(week15).com/help/",
+  "contextSensitiveHelpUrl": "https://ALProject4.com/help/",
   "showMyCode": true,
   "runtime": "5.0"
 }
